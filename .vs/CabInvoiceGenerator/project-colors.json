@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08a4bfef-2180-4e5b-8af6-c4401492c781": {
+      "ProjectGuid": "08a4bfef-2180-4e5b-8af6-c4401492c781",
+      "DisplayName": "CabInvoiceGenerator",
+      "ColorIndex": 0
+    },
+    "ab01303b-9af5-48d5-aa3b-ce8986f6bbcf": {
+      "ProjectGuid": "ab01303b-9af5-48d5-aa3b-ce8986f6bbcf",
+      "DisplayName": "CabInvoiceTestProject",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
